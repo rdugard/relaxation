@@ -3,6 +3,14 @@ body {
   background: url(../images/sky1.jpeg) no-repeat #011638;
   background-size: 100%;
   color: #fff;
-  max-width: 50%;
+  max-width: 55%;
   margin:auto;
+}
+
+
+.animal {
+  max-width: 320px;
+  max-height: 213px;
+  float: left;
+  padding: 5px;
 }
